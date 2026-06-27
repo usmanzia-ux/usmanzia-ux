@@ -172,6 +172,14 @@ IEEE IoT Journal, vol. 11, no. 21, pp. 35124–35140, 2024
 
 ---
 
+## 📊 Stats & Dev Activity
+
+![Ar3h7r's GitHub Stats](https://github-readme-stats.vercel.app/api?username=usmanzia-ux&show_icons=true&theme=radical&title_color=ff0000&icon_color=ff6b6b&text_color=ffffff&bg_color=0d1117&border_color=ff0000&include_all_commits=true&count_private=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=usmanzia-ux&theme=radical&background=0d1117&ring=ff0000&fire=ff6b6b&currStreakLabel=ff0000&border=ff0000)
+
+---
+
 <div align="center">
 
 ### 💬 Philosophy
