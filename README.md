@@ -1,20 +1,19 @@
 <div align="center">
 
 ```
-██╗   ██╗███████╗███╗   ███╗ █████╗ ███╗   ██╗    ███████╗██╗ █████╗
-██║   ██║██╔════╝████╗ ████║██╔══██╗████╗  ██║    ╚════██║██║██╔══██╗
-██║   ██║███████╗██╔████╔██║███████║██╔██╗ ██║        ██╔╝██║███████║
-██║   ██║╚════██║██║╚██╔╝██║██╔══██║██║╚██╗██║       ██╔╝ ██║██╔══██║
-╚██████╔╝███████║██║ ╚═╝ ██║██║  ██║██║ ╚████║       ██║  ██║██║  ██║
- ╚═════╝ ╚══════╝╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝       ╚═╝  ╚═╝╚═╝  ╚═╝
+ █████╗ ██████╗ ██████╗ ██╗  ██╗███████╗██████╗ 
+██╔══██╗██╔══██╗╚════██╗██║  ██║╚════██║██╔══██╗
+███████║██████╔╝ █████╔╝███████║    ██╔╝██████╔╝
+██╔══██║██╔══██╗ ╚═══██╗██╔══██║   ██╔╝ ██╔══██╗
+██║  ██║██║  ██║██████╔╝██║  ██║   ██║  ██║  ██║
+╚═╝  ╚═╝╚═╝  ╚═╝╚═════╝ ╚═╝  ╚═╝   ╚═╝  ╚═╝  ╚═╝
 ```
 
 ### `[ Penetration Tester · Security Researcher · AI/IoT Security ]`
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=red)](https://tryhackme.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/usman-zia-0a66841b7)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=red)](https://tryhackme.com/p/Ar7h3r)
 [![Gmail](https://img.shields.io/badge/usmanzia600@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:usmanzia600@gmail.com)
-[![Phone](https://img.shields.io/badge/+92--334--9828318-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+923349828318)
 
 </div>
 
@@ -23,11 +22,11 @@
 ## 👾 `whoami`
 
 ```bash
-$ cat /etc/passwd | grep usman
-usman:x:1337:1337:Penetration Tester & Security Researcher:/home/usman:/bin/zsh
+$ cat /etc/passwd | grep ar3h7r
+ar3h7r:x:1337:1337:Penetration Tester & Security Researcher:/home/ar3h7r:/bin/zsh
 
 $ id
-uid=1337(usman) gid=1337(security) groups=1337(security),0(root),31337(elite)
+uid=1337(ar3h7r) gid=1337(security) groups=1337(security),0(root),31337(elite)
 ```
 
 > 🔐 **Penetration Tester** @ Secure Purple, Islamabad — breaking things professionally so attackers can't.  
