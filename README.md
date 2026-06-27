@@ -38,6 +38,14 @@ uid=1337(ar3h7r) gid=1337(security) groups=1337(security),0(root),31337(elite)
 
 ---
 
+## 📊 Stats & Dev Activity
+
+![Ar3h7r's GitHub Stats](https://github-readme-stats.vercel.app/api?username=usmanzia-ux&show_icons=true&theme=radical&title_color=ff0000&icon_color=ff6b6b&text_color=ffffff&bg_color=0d1117&border_color=ff0000&include_all_commits=true&count_private=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=usmanzia-ux&theme=radical&background=0d1117&ring=ff0000&fire=ff6b6b&currStreakLabel=ff0000&border=ff0000)
+
+---
+
 ## 🧠 What I Do
 
 <table>
@@ -169,14 +177,6 @@ IEEE IoT Journal, vol. 11, no. 21, pp. 35124–35140, 2024
 
 **🏛️ University of Engineering and Technology Peshawar**  
 `B.Sc. Computer Systems Engineering` | `2020 – 2024` | **GPA: 3.25 / 4.0**
-
----
-
-## 📊 Stats & Dev Activity
-
-![Ar3h7r's GitHub Stats](https://github-readme-stats.vercel.app/api?username=usmanzia-ux&show_icons=true&theme=radical&title_color=ff0000&icon_color=ff6b6b&text_color=ffffff&bg_color=0d1117&border_color=ff0000&include_all_commits=true&count_private=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=usmanzia-ux&theme=radical&background=0d1117&ring=ff0000&fire=ff6b6b&currStreakLabel=ff0000&border=ff0000)
 
 ---
 
